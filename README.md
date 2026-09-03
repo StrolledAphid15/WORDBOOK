@@ -1,6 +1,6 @@
-# JavaDataTypeTest
+# WORDBOOK
 
-这是一个只保留核心功能的 Java Swing 英语单词簿程序，代码位于 `src/wordbook3`，包名为 `wordbook3`。
+这是一个基于 Java Swing 的英语单词簿程序，代码位于 `src/wordbook3`，包名为 `wordbook3`。
 
 ## 保留功能
 
